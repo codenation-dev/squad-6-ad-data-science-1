@@ -9,6 +9,7 @@ This model is a `type_of_modeling` that `do_something` to solve `this_problem` a
 | Role                 | Responsibility         | Full name                | e-mail       |
 | -----                | ----------------       | -----------              | ---------    |
 | Data Scientist       | Author                 | [`Matheus de Almeida Silva`]            | [`ms.asilvas1@gmail.com`] |
+| Data Analyst         | Author                 | [`Wesley Nunes Watanabe`]               | [`wesleykaoru@gmail.com`] |
 | Project Owner        | Co-author              | [`First name Last Name`] | [`e-mail`]   |
 
 ## Usage
