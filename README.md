@@ -10,6 +10,7 @@ This model is a `type_of_modeling` that `do_something` to solve `this_problem` a
 | -----                | ----------------       | -----------              | ---------    |
 | Data Scientist       | Author                 | [`Matheus de Almeida Silva`]            | [`ms.asilvas1@gmail.com`] |
 | Data Analyst         | Author                 | [`Wesley Nunes Watanabe`]               | [`wesleykaoru@gmail.com`] |
+| Data Scientist       | Author                 | [`Danilo Augusto Gomes Rios de Sousa`]  | [`dagrs70@gmail.com`]     |
 | Project Owner        | Co-author              | [`First name Last Name`] | [`e-mail`]   |
 
 ## Usage
@@ -29,7 +30,7 @@ Make sure that **docker** is installed.
 Clone the project from the analytics Models repo.
 ```bash
 git clone https://github.com/<@github_username>/<@project>.git
-cd <@project>
+cd <@project> 
 ```
 
 
