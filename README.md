@@ -8,11 +8,10 @@ This model is a `type_of_modeling` that `do_something` to solve `this_problem` a
 
 | Role                 | Responsibility         | Full name                | e-mail       |
 | -----                | ----------------       | -----------              | ---------    |
-| Data Scientist       | Author                 | [`Matheus de Almeida Silva`]            | [`ms.asilvas1@gmail.com`] |
-| Data Analyst         | Author                 | [`Wesley Nunes Watanabe`]               | [`wesleykaoru@gmail.com`] |
-| Data Scientist       | Author                 | [`Danilo Augusto Gomes Rios de Sousa`]  | [`dagrs70@gmail.com`]     |
-| Data Scientist       | Author                 | [`Bruno Juncklaus Martins`]             | [`bjuncklaus@gmail.com`]  |
-| Project Owner        | Co-author              | [`First name Last Name`] | [`e-mail`]   |
+| Data Scientist       | Co-author                 | [`Matheus de Almeida Silva`]            | [`ms.asilvas1@gmail.com`] |
+| Data Analyst         | Co-author                 | [`Wesley Nunes Watanabe`]               | [`wesleykaoru@gmail.com`] |
+| Data Scientist       | Co-author                 | [`Danilo Augusto Gomes Rios de Sousa`]  | [`dagrs70@gmail.com`]     |
+| Data Scientist       | Co-author                 | [`Bruno Juncklaus Martins`]             | [`bjuncklaus@gmail.com`]  |
 
 ## Usage
 > Describe how to reproduce your model
