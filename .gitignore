@@ -75,7 +75,7 @@ docs/source/md/
 target/
 
 # Jupyter Notebook
-.ipynb_checkpoints
+analysis/.ipynb_checkpoints/
 
 # pyenv
 .python-version
