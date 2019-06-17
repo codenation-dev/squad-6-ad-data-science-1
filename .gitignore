@@ -60,6 +60,9 @@ db.sqlite3
 instance/
 .webassets-cache
 
+# Jupyter notebook checkpoints
+analysis/.ipynb_checkpoints/
+
 # Scrapy stuff:
 .scrapy
 
